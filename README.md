@@ -25,9 +25,6 @@ To install the Sample Tracking Tool, follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Support
-
-For assistance or inquiries, please contact [support@example.com](mailto:support@example.com).
 
 ## Papers
 
