@@ -19,15 +19,3 @@ To install the Sample Tracking Tool, follow these steps:
 4. Load the input files (VCF from WES and the .txt file from OA) in the 'Input' folder
 5. Open the 'Tracking_Tool_Script.r' as text and set the specific path of the Sample Tracking Tool folder downloaded on your PC and the input files path and name for the analysis. Save and close.
 6. Open 'Run_App.r' file using RStudio, then click on the green `run app`.
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-## Papers
-
-**Under construction...** 
-
-Link to paper: coming soon
